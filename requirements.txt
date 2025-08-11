@@ -1,0 +1,1 @@
+# no external pip packages required (PyInstaller will be installed on GitHub runner)
